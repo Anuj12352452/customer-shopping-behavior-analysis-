@@ -182,7 +182,7 @@ Open `report/Customer_Shopping_Behavior_Report.docx` — it contains:
 
 ## 📜 License
 
-MIT — see `LICENSE.txt`. Free to fork, star, and use in your own portfolio.
+MIT — see `LICENSE.txt`. Free to fork, star.
 
 ---
 
